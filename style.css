@@ -9,12 +9,15 @@ body {
     margin: 0;
 }
 
+.header-container, .hero-container {
+    background-color: #1F2937;
+}
+
 .header-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1rem 5rem;
-    background-color: #1f2937;
 }
 
 .logo {
@@ -41,7 +44,6 @@ a {
 }
 
 .hero-container {
-    background-color: #1f2937;
     display: flex;
     align-items: center;
     font-size: 18px;
@@ -59,6 +61,7 @@ a {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+    margin-top: 0;
 }
 
 .hero-btn {
