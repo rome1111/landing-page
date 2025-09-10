@@ -5,13 +5,13 @@ It demonstrates fundamental HTML and CSS concepts such as layout, typography, an
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![Output](./output.png)
 
 ---
 
-## 🚀 Features
+## Features
 - Header with navigation links  
 - Hero section with call-to-action button  
 - Information cards with placeholder illustrations  
@@ -21,20 +21,20 @@ It demonstrates fundamental HTML and CSS concepts such as layout, typography, an
 
 ---
 
-## 🛠️ Built With
+## Built With
 - **HTML**  
 - **CSS**  
 
 ---
 
-## 🎯 What I Learned
+## What I Learned
 - Structuring a landing page using semantic HTML  
 - Styling layouts with **Flexbox** 
 
 ---
 
-## 📂 How to Use
+## How to Use
 1. Clone the repository:
    git clone https://github.com/rome1111/landing-page.git
 
-2. Open index.html in your browser to view the landing page.
+2. Open <code>index.html</code> in your browser to view the landing page.
