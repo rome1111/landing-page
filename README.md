@@ -6,18 +6,18 @@ It demonstrates fundamental HTML and CSS concepts such as layout, typography, an
 ---
 
 ## Preview
-
-![Output](./output.png)
+Live preview: https://rome1111.github.io/landing-page/
+![Output](./images/output1.png)
 
 ---
 
 ## Features
 - Header with navigation links  
-- Hero section with call-to-action button  
+- Hero section  
 - Information cards with placeholder illustrations  
 - Testimonial/quote section  
 - Secondary call-to-action banner  
-- Footer with copyright  
+- Footer with copyright
 
 ---
 
